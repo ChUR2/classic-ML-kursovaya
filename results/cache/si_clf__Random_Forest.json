@@ -1,0 +1,1 @@
+{"score": 0.7248864658323821, "std": 0.03871440986501313, "params": {"class_weight": null, "max_depth": 6, "max_features": 0.3, "min_samples_leaf": 3, "n_estimators": 563}, "n_fits": 150}

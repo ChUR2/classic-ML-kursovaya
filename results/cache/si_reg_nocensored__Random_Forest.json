@@ -1,0 +1,1 @@
+{"score": 0.16238932927885513, "std": 0.047171347484192085, "params": {"max_depth": 16, "max_features": "log2", "min_samples_leaf": 6, "n_estimators": 585}, "n_fits": 150}

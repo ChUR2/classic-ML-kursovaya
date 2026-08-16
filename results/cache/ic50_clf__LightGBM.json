@@ -1,0 +1,1 @@
+{"score": 0.7761052343807073, "std": 0.02505724225121269, "params": {"class_weight": "balanced", "colsample_bytree": 0.47322, "learning_rate": 0.03107, "min_child_samples": 39, "n_estimators": 355, "num_leaves": 23, "reg_lambda": 0.01967, "subsample": 0.86501, "subsample_freq": 1}, "n_fits": 150}

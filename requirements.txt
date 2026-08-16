@@ -1,0 +1,22 @@
+# Обработка данных
+numpy>=2.2.6
+pandas>=2.3.3
+scipy>=1.15.3
+openpyxl>=3.1.5
+
+# Машинное обучение
+scikit-learn>=1.7.2
+lightgbm>=4.7.0
+xgboost>=3.2.0
+
+# Визуализация
+matplotlib>=3.10.9
+seaborn>=0.13.2
+pillow>=10.0.0
+
+# Ноутбуки
+jupyterlab>=4.0.0
+nbformat>=5.9.0
+
+# Сборка отчёта
+reportlab>=4.5.1
